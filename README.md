@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @neldroid
-- 👀 I’m interested in create things. And this could be anything... I tried with blacksmithing, woodworking. Now I'm trying to create things in 3D, but also
-- create Android projects, learn Kotlin, build video games or Metaverse experiencies
-- 🌱 I’m currently learning Jetpack Compose, Kotlin, Blender, Unity... And some draw techniques
-- 💞️ I’m looking to collaborate on open source projects and webinars
+<div align="center">
+  <h1>Hi <img src="https://github.com/neldroid/neldroid/blob/main/images/Hi.gif" width="29px">, I'm Pablo Nahuel!</h1>
+ </div>
+
+<img src="https://github.com/neldroid/neldroid/blob/main/images/banner.png"/>
+
+<p align="center">
+  <a href="https://www.twitch.tv/theandroidmate" target="_blank">
+    <img src="https://img.shields.io/twitch/status/theandroidmate?style=social">
+  </a>
+  <a href="https://twitter.com/TheAndroidMate" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/TheAndroidMate?style=social">
+  </a>  
+</p>
+
+- 🌱 I’m currently learning <b>Jetpack Compose</b>, and getting more expeerincie with <b>Kotlin</b>
+- 🤓 I’m looking to collaborate and create usefull content. I also tried to help other as a mentor in <a target="blanck" href="https://adplist.org/mentors/pablo-nahuel-ufor-laplaza">ADPList</a>
+
 - 📫 How to reach me: Email nahuelul@gmail.com
 
-<!---
-neldroid/neldroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
